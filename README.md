@@ -2,16 +2,20 @@
 
 ### Date created
 Include the date you created this project and README file.
-
-### Project Title
+2021-04-28
+### Project Title: biekshare and Github
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project is a project conducted to meet the requirements for the Udacity course: Programming for Data Science. It works on the bikeshare data.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+https://github.com/udacity/pdsnd_github
