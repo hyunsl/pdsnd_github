@@ -9,6 +9,11 @@
 This project is a project conducted to meet the requirements for the Udacity course: Programming for Data Science. It works on the bikeshare data.
 https://www.udacity.com/school-of-data-science
 
+The code will be able to generate statistical data related to:
+ 1) bike station
+ 2) bike usage duration
+ 3) bike user
+
 ### Files used
 chicago.csv
 new_york_city.csv
