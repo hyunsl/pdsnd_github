@@ -119,7 +119,7 @@ def time_stats(df):
             break
     print('-'*40)
 
-    print("\nThis took %s seconds." % (round(time.time() - start_time, 2)))
+    print('\nThis took %s seconds.'' % (round(time.time() - start_time, 2)))
     print('-'*40)
 
 
