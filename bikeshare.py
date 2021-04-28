@@ -110,7 +110,7 @@ def time_stats(df):
             common_hour = df['hour'].mode()[0]
 
             #print results
-            print('Most Common month:', month_name[common_month-1])
+            print('Most Common month: {}'.format(month_name[common_month-1]))
             print('Most Common day:', common_day_of_week)
             print('Most Common Start Hour:', common_hour)
             break
